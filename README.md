@@ -5,7 +5,7 @@
 
 Activenture Plus – South Island Free Community Fitness Platform
 
-Scrum team collaborative development projects
+Scrum team collaborative development the project
 
 
 **Project Overview**
