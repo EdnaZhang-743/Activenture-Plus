@@ -5,7 +5,7 @@
 
 Activenture Plus – South Island Free Community Fitness Platform
 
-COMP639 · Studio Project · Semester 2, 2025 · Group: Gold
+Scrum team collaborative development projects
 
 
 **Project Overview**
